@@ -5,7 +5,7 @@ Aplicação Full-Stack da trilha Ignite com criação de anúncios para encontra
 
 ## Tecnologias utilizadas
 - Front-end: React, TypeScript e Tailwind CSS.
-- Back-end: Node.js, Express, RESTful API, SQLite, Knex.jsm e Prisma ORM.
+- Back-end: Node.js, Express, RESTful API, SQLite, Knex.js e Prisma ORM.
 
 ## Tutorial de uso:
 Em desenvolvimento.
