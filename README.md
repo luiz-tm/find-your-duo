@@ -1,33 +1,11 @@
 # next-level-week
  
-Repositório criado para os estudos da NLW eSports da Rocketseat.
+Aplicação Full-Stack da trilha Ignite com criação de anúncios para encontrar um
+“duo” em seu jogo preferido.
 
-# Back-end
+## Tecnologias utilizadas
+- Front-end: React, TypeScript e Tailwind CSS.
+- Back-end: Node.js, Express, RESTful API, SQLite, Knex.jsm e Prisma ORM.
 
-## Entidades
-
-### Game
-
-id
-title
-bannerUrl
-
-### Ad
-
-id
-gameId
-name
-yearsPlaying
-discord
-weekDays
-hourStart
-hourEnd
-useVoiceChannel
-createdAt
-
-### Casos de uso
-
-- Listagem de games com contagem de anúncios
-- Criação de novo anúncio
-- Listagem de anúncios por game
-- Buscar Discord pelo ID do anúncio
+## Tutorial de uso:
+Em desenvolvimento.
