@@ -4,8 +4,8 @@
 Projeto criado durante a Trilha Ignite da Next Level Week eSports da RocketSeat.
 
 ## Tecnologias utilizadas
-- Front-end: TypeScript, React.js, Tailwind CSS
-- Back-end: Node.js, Express, SQLite e Prisma ORM
+- Front-end: TypeScript, React.js, Tailwind CSS, Vite, Radix UI e Phospor React.
+- Back-end: TypeScript, Node.js, TS Node Dev, Express, Axios, SQLite e Prisma ORM
 
 ## Tutorial:
 
