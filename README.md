@@ -1,4 +1,4 @@
-### Next Level Week
+### Find your Duo - Next Level Week eSports
 
 ## Sobre
 Projeto criado durante a Trilha Ignite da Next Level Week eSports da RocketSeat.
