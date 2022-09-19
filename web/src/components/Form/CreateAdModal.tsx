@@ -79,7 +79,7 @@ export function CreateAdModal() {
 
                     <div className="flex flex-col gap-2">
                         <label htmlFor="name">Seu nome (ou nickname)</label>
-                        <Input name="name" id="name" placeholder="Como te chamam dentro do game?" />
+                        <Input autoComplete='off' name="name" id="name" placeholder="Como te chamam dentro do game?" />
                     </div>
 
                     <div className="grid grid-cols-2 gap-6">
@@ -90,7 +90,7 @@ export function CreateAdModal() {
 
                         <div className="flex flex-col gap-2">
                             <label htmlFor="discord">Qual seu Discord?</label>
-                            <Input placeholder="Usuario#0000" name="discord" id="discord" />
+                            <Input autoComplete='off' placeholder="Usuario#0000" name="discord" id="discord" />
                         </div>
                     </div>
 
