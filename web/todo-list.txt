@@ -1,0 +1,6 @@
+1. Responsividade
+2. Carrossel (keen-slider.io)
+3. Usar radix select no selecione o game
+4. Fazer validação (React Hook Form)
+5. Fazer autenticação de login
+6. Adicionar um modal de anúncios pra cada jogo
